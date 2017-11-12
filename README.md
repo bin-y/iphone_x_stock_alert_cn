@@ -7,7 +7,7 @@
 3. 在解压目录命令`npm install request`
 
 ## 使用方法
-1. 修改代码中的config内容，city为目标城市，model为目标型号，chekc_interval为检查间隔（单位毫秒）
+1. 修改代码中的config内容，city为目标城市，model为目标型号，check_interval为检查间隔（单位毫秒）
 2. 在解压目录命令行执行`node main.js`开始监控，当指定城市有直营店可以预约时会弹出窗口提示`X on stock!!!`
 
 ## 型号列表
